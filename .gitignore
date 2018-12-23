@@ -1,0 +1,12 @@
+*.cmp
+*.drd
+*.dri
+*.gpi
+*.plc
+*.pls
+*.sol
+*.stc
+*.sts
+*.zip
+
+*.epf
